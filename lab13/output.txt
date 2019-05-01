@@ -1,0 +1,8 @@
+7 Polygon(s):  blue brown grey olive orange purple red
+3 Triangle(s):  brown purple red
+2 IsoscelesTriangle(s):  purple red
+0 EquilateralTriangle(s): 
+0 Quadrilateral(s): 
+0 Rectangle(s): 
+0 Square(s): 
+1 Shape(s) with all equal sides:  blue
